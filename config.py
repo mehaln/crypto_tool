@@ -1,0 +1,3 @@
+DEFAULT_ALGORITHM = "AES"
+DEFAULT_KEY_SIZE = 32  # 256-bit AES
+DEFAULT_BLOCK_SIZE = 16  # AES block size in bytes
